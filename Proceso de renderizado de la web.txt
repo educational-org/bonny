@@ -1,0 +1,21 @@
+Javascript -> Style -> Layout -> Paint -> Composite
+
+Javascript
+Codigo.
+
+Style -->
+Stylessheets
+
+Layout
+Diseño de la pagina
+anchos margin padding borders
+
+Paint:
+Rellena píxeles
+implica colores imagenes textos y sombras.
+
+
+Composite:
+Ordena las partes de la página.
+Propiedades como opacity y transform
+
